@@ -11,6 +11,10 @@ body {
   background-attachment: fixed;
   color: #fff;
 }
+a {
+  color: #fff;
+  text-decoration: underline;
+}
 
 #root {
   min-height: 100vh;
