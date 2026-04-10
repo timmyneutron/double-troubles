@@ -45,11 +45,6 @@ function App() {
         Lindy Hop performance team based in New York City, and we'd love for you
         to come dance with us!
       </p>
-      <h2>Workshop Announcement</h2>
-      <p className="description">
-        We're hosting an ambidancetrous Lindy Hop workshop on <strong>Wednesday, April 8th </strong>
-        from 7:30 PM to 9:30 PM. For more details check out the FB event page <a href="https://www.facebook.com/events/1498235402020134" target="_blank" rel="noopener noreferrer">here</a>. See you there!
-      </p>
       <h2>Get in Touch</h2>
       <p className="description">
         If you're interested in joining us or want to get more information, please
