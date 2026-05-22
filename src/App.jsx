@@ -45,10 +45,17 @@ function App() {
         Lindy Hop performance team based in New York City, and we'd love for you
         to come dance with us!
       </p>
-      <h2>Get in Touch</h2>
+
+      <h2>Workshop Announcement</h2>
       <p className="description">
-        If you're interested in joining us or want to get more information, please
-        leave us your contact info below and we'll get back to you!
+        We're having a workshop! Join us Wednesday, May 29th, 7:30 - 9:30 PM for an ambidancetrous Lindy Hop **performance** workshop.
+        <br/>
+        <a href="" target="_blank" rel="noopener noreferrer">Click here for details</a>
+      </p>
+
+      <h2>Summer Term Starts June 3rd!</h2>
+      <p className="description">
+        We're gearing up for our summer term, which starts Wednesday, June 3rd! If you're interested in joining us, please fill out the form below and we'll get back to you with more information about the upcoming term.
       </p>
 
       <form className="form-card" onSubmit={handleSubmit}>
