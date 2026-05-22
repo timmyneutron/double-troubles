@@ -48,7 +48,7 @@ function App() {
 
       <h2>Workshop Announcement</h2>
       <p className="description">
-        We're having a workshop! Join us Wednesday, May 29th, 7:30 - 9:30 PM for an ambidancetrous Lindy Hop **performance** workshop.
+        We're having a workshop! Join us Wednesday, May 27th, 7:30 - 9:30 PM for an ambidancetrous Lindy Hop **performance** workshop.
         <br/>
         <a href="" target="_blank" rel="noopener noreferrer">Click here for details</a>
       </p>
