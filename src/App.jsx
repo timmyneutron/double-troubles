@@ -46,9 +46,16 @@ function App() {
         to come dance with us!
       </p>
 
+      <p className="description">
+        We encourage dancers of all levels to join us, and beginners are especially welcome! This is a great opportunity to learn both roles, make friends, and perform in a supportive and friendly environment.
+      </p>
+
       <h2>Summer Term Starts June 3rd!</h2>
       <p className="description">
-        We're gearing up for our summer term, which starts Wednesday, June 3rd! If you're interested in joining us, please fill out the form below and we'll get back to you with more information about the upcoming term.
+        We're gearing up for our summer term, which starts Wednesday, June 3rd! See <a href="https://www.facebook.com/events/973158908894303" target="_blank" rel="noopener noreferrer">here</a> for more details.
+      </p>
+      <p className="description">
+        If you're interested but can't make it to rehearsal, fill out the form below to join the mailing list and we'll keep you in the loop about future events and opportunities to dance with us!
       </p>
 
       <form className="form-card" onSubmit={handleSubmit}>
