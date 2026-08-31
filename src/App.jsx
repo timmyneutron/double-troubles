@@ -50,14 +50,27 @@ function App() {
         We encourage dancers of all levels to join us, and beginners are especially welcome! This is a great opportunity to learn both roles, make friends, and perform in a supportive and friendly environment.
       </p>
 
-      <h2>Summer Term Starts June 3rd!</h2>
+      <h2>Performances coming up September 1st and 3rd!</h2>
+      <br/>
+      <h3>Midtown Swings - Tuesday, September 1st</h3>
       <p className="description">
-        We're gearing up for our summer term, which starts Wednesday, June 3rd! See <a href="https://www.facebook.com/events/973158908894303" target="_blank" rel="noopener noreferrer">here</a> for more details.
+        Danznik Studios<br />
+        240 West 37th St, 2nd floor<br />
+        $25/$15 for students<br />
+        Dance starts at 9 PM, performance at 10:30 PM
       </p>
+      <h3>Frim Fram Jam - Thursday, September 3rd</h3>
       <p className="description">
-        If you're interested but can't make it to rehearsal, fill out the form below to join the mailing list and we'll keep you in the loop about future events and opportunities to dance with us!
+        You Should Be Dancing<br />
+        37 W 26th St, 2nd floor<br />
+        $15/$10 for students<br />
+        Dance starts at 9 PM, performance at 10:30 PM
       </p>
 
+      <h2>Join the Double Troubles!</h2>
+      <p className="description">
+        If you're interested in joining the Double Troubles, please fill out the form below and we'll get back to you with more information!
+      </p>
       <form className="form-card" onSubmit={handleSubmit}>
         <div className="form-group">
           <label htmlFor="name">Name</label>
