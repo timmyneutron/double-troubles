@@ -58,7 +58,8 @@ function App() {
         Danznik Studios<br />
         240 West 37th St, 2nd floor<br />
         $25/$15 for students<br />
-        Dance starts at 9 PM, performance at 10:30 PM
+        Dance starts at 9 PM<br />
+        Performance at 10:30 PM
       </p>
       <h3>Frim Fram Jam</h3>
       <h3>Thursday, September 3rd</h3>
@@ -66,7 +67,8 @@ function App() {
         You Should Be Dancing<br />
         37 W 26th St, 2nd floor<br />
         $15/$10 for students<br />
-        Dance starts at 9 PM, performance at 10:30 PM
+        Dance starts at 9 PM<br />
+        Performance at 10:30 PM
       </p>
 
       <h2>Join the Double Troubles!</h2>
