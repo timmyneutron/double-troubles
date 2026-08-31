@@ -52,14 +52,16 @@ function App() {
 
       <h2>Performances coming up September 1st and 3rd!</h2>
       <br/>
-      <h3>Midtown Swings - Tuesday, September 1st</h3>
+      <h3>Midtown Swings</h3>
+      <h3>Tuesday, September 1st</h3>
       <p className="description">
         Danznik Studios<br />
         240 West 37th St, 2nd floor<br />
         $25/$15 for students<br />
         Dance starts at 9 PM, performance at 10:30 PM
       </p>
-      <h3>Frim Fram Jam - Thursday, September 3rd</h3>
+      <h3>Frim Fram Jam</h3>
+      <h3>Thursday, September 3rd</h3>
       <p className="description">
         You Should Be Dancing<br />
         37 W 26th St, 2nd floor<br />
