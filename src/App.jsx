@@ -50,25 +50,19 @@ function App() {
         We encourage dancers of all levels to join us, and beginners are especially welcome! This is a great opportunity to learn both roles, make friends, and perform in a supportive and friendly environment.
       </p>
 
-      <h2>Performances coming up September 1st and 3rd!</h2>
+      <h2>Open Practices</h2>
       <br/>
-      <h3>Midtown Swings</h3>
-      <h3>Tuesday, September 1st</h3>
       <p className="description">
-        Danznik Studios<br />
-        240 West 37th St, 2nd floor<br />
-        $25/$15 for students<br />
-        Dance starts at 9 PM<br />
-        Performance at 10:30 PM
+        Interested in joinging the Double Troubles? Wanna work on both roles?<br />
+        Come to our upcoming open practices!<br />
+        You'll get to work on leading, following, and switching<br />
+        in a supportive environment, meet the team, and have fun dancing!<br />
       </p>
-      <h3>Frim Fram Jam</h3>
-      <h3>Thursday, September 3rd</h3>
+      <h3>Details</h3>
       <p className="description">
-        You Should Be Dancing<br />
-        37 W 26th St, 2nd floor<br />
-        $15/$10 for students<br />
-        Dance starts at 9 PM<br />
-        Performance at 10:30 PM
+        Dates: Wednesdays, September 23rd and 30th<br />
+        Time: 7:30 PM - 9:30 PM<br />
+        Location: Pearl Studios, 500 8th Ave, Room TBD
       </p>
 
       <h2>Join the Double Troubles!</h2>
