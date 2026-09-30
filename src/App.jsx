@@ -62,7 +62,8 @@ function App() {
       <p className="description">
         Dates: Wednesdays, September 23rd and 30th<br />
         Time: 7:30 PM - 9:30 PM<br />
-        Location for Sept 23rd: Pearl Studios, 500 8th Ave, Room 315
+        Location for Sept 23rd: Pearl Studios, 500 8th Ave, Room 315<br />
+        Location for Sept 30th: Pearl Studios, 500 8th Ave, Room 406<br />
       </p>
 
       <h2>Join the Double Troubles!</h2>
